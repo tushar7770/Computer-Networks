@@ -3,3 +3,4 @@
 .vscode
 hamming.c
 menu.c
+.DS_Store
