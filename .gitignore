@@ -1,0 +1,5 @@
+*.pdf
+*.pages
+.vscode
+hamming.c
+menu.c
